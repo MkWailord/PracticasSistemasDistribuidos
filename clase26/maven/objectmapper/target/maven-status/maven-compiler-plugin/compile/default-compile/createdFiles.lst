@@ -1,0 +1,8 @@
+mx/ipn/app/run/ObjectMapperUtils.class
+mx/ipn/app/model/Info.class
+mx/ipn/app/model/Country.class
+mx/ipn/app/run/ObjectMapperUtils$1.class
+mx/ipn/app/run/Main.class
+mx/ipn/app/run/ObjectMapperUtils$1CustomCountryDeserializer.class
+mx/ipn/app/run/ObjectMapperUtils$2.class
+mx/ipn/app/run/ObjectMapperUtils$1CustomCountrySerializer.class
